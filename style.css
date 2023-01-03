@@ -78,6 +78,7 @@ body {
     border:1px;
     border-radius: 0.7rem;
     display: block;
+    cursor: pointer;
     width: 9%;
     height: 8vh;
     margin: auto;
