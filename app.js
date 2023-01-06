@@ -1,4 +1,4 @@
-var serverURL="	https://api.funtranslations.com/translate/yoda.json";
+var serverURL="https://api.funtranslations.com/translate/yoda.json";
 var inputText=document.querySelector("#inputText");
 var translateButton=document.querySelector("#translateButton");
 var outputText=document.querySelector("#outputText");
