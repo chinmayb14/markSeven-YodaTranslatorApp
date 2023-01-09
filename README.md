@@ -13,3 +13,7 @@ It's an web app which changes the english sentences to the one spoken by yoda.It
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/45689921/211239438-1ac7be71-e986-4a99-987c-85d8be8509cb.png)
+
+## Limitations
+
+cannot use this app to transalte text more than  5 times.
